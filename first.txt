@@ -1,1 +1,2 @@
-my name is jyoti
+my name is Jyoti
+i am a java developer
